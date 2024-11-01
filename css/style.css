@@ -1,0 +1,3 @@
+/* admin Option css */
+#form_data textarea,#form_data select {width: 100%;height: 113px;}
+.can_you_dvc label, .position_pvd label{padding-right: 20px;}
